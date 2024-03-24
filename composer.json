@@ -1,12 +1,12 @@
 {
-    "name": "chartisan/php-clone",
-    "description": "Chartisan's PHP backend",
+    "name": "terdia/chartisan-php-clone",
+    "description": "Clone of Èrik Campobadal Forés lib",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Èrik Campobadal Forés",
-            "email": "soc@erik.cat"
+            "name": "Terry Osayawe",
+            "email": "terrymarcy2000@yahoo.com"
         }
     ],
     "minimum-stability": "dev",
